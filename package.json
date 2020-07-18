@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "MENJ CLI - Scaffold for API with NodeJS, Express, MongoDB and JWT.",
   "author": "TitenQ <titenq@gmail.com>",
-  "contributors": [
-  ],
+  "contributors": [],
   "repository": {
     "type": "git",
     "url": "git://github.com/titenq/menj.git"
